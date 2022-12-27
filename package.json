@@ -1,0 +1,25 @@
+{
+  "name": "battleship-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calher99/battleship-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calher99/battleship-game/issues"
+  },
+  "homepage": "https://github.com/calher99/battleship-game#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.7",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1"
+  }
+}
